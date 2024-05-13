@@ -17,7 +17,7 @@ The genetic algorithm optimizes the car's ability to navigate the track by evolv
  - All cars are instances of the AgentCar class.
  - Mutation should only alter the values of the chromosome within the range [1, 4].
  - Extensive debugging via print statements is recommended due to minimal error handling in the game code.
- - 
+   
 ## Running the Game
 To run the game and observe the performance of the genetic algorithm, follow these steps:
  - Clone the repository to your local machine.
